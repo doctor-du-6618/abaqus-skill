@@ -1,4 +1,0 @@
-interface:
-  display_name: "Abaqus Mesh & Coupled Analysis"
-  short_description: "Replace CAE meshes and validate coupled analyses"
-  default_prompt: "Use $abaqus-skill to replace an Abaqus CAE mesh, preserve the master analysis structure, and deliver a validated model."
